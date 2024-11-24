@@ -96,6 +96,8 @@ button {
 .btn-accent {
     font-size: 16px;
     font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     background: transparent;
     color: #FFFFFF;
     background: var(--iris, #4D5AE5);
@@ -135,8 +137,9 @@ button {
     color : #2E2F42;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .team-item{
@@ -145,7 +148,7 @@ button {
 .team-subtitle{
     color: #2E2F42;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
@@ -168,8 +171,9 @@ button {
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize
 }
 
 .portfolio-subtitle{
@@ -210,7 +214,7 @@ button {
 .footer-text{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     color: #F4F4FD;
 }
 /* #endregion */
