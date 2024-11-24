@@ -35,12 +35,6 @@ button {
 /* #endregion */
 
 /* #region Header */
-.header {
-}
-
-nav{
-}
-
 .logo-icon{
     font-size: 18px;
     font-weight: 700;
@@ -111,12 +105,6 @@ nav{
 /* #endregion */
 
 /* #region Title */
-.title-list{
-}
-
-.title-item{
-}
-
 .title-subtitle{
     color: #2E2F42;
     font-size: 20px;
