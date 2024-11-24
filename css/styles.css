@@ -6,7 +6,7 @@ body{
     
 }
 
-/* h1,
+h1,
 h2,
 h3,
 h4,
@@ -14,12 +14,12 @@ h5,
 h6,
 p {
     margin: 0;
-} */
+} 
 
-/* a {
+a {
     text-decoration: none;
     color: currentColor;
-} */
+}
 
 ul,
 ol {
@@ -111,6 +111,9 @@ button {
 /* #endregion */
 
 /* #region Title */
+.visually-hidden{
+    display: none;
+}
 .title-subtitle{
     color: #2E2F42;
     font-size: 20px;
