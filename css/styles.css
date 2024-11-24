@@ -1,7 +1,9 @@
 
 body{
     font-family: "Roboto", sans-serif;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #434455;
+    
 }
 
 h1,
@@ -36,16 +38,17 @@ button {
 
 /* #region Header */
 .logo-icon{
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.31;
-    letter-spacing: 3%;
-    color: #2E2F42;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4d5ae5;
     text-transform: uppercase;
 }
 
 .section-title-accent{
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 
 
@@ -53,7 +56,7 @@ button {
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -65,7 +68,7 @@ button {
 .address-link{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -86,7 +89,8 @@ button {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
 }
 
 .btn-accent {
@@ -110,14 +114,14 @@ button {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .title-text{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 /* #endregion */
 
@@ -132,7 +136,7 @@ button {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.1;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .team-item{
@@ -143,14 +147,14 @@ button {
     font-size: 20px;
     font-weight: 400;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .team-text{
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 /* #endregion */
 
@@ -165,21 +169,21 @@ button {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.1;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-subtitle{
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
 .portfolio-text{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 /* #endregion */
@@ -190,22 +194,23 @@ button {
 }
 
 .logo-icon-footer{
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.31;
-    letter-spacing: 3%;
-    color: #F4F4FD;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
     text-transform: uppercase;
 }
 
 .section-title-accent-footer{
-    color: #4D5AE5;
+    color: #F4F4FD;
 }
 
 .footer-text{
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     color: #F4F4FD;
 }
 /* #endregion */
